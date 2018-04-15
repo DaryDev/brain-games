@@ -6,5 +6,6 @@
             "email": "dashulka_amosov@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": ["bin/brain-games"]
 }
